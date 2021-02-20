@@ -1,0 +1,41 @@
+[{
+ "Name": "Bitcoin",
+ "Symbol": "BTC",
+ "Price": "$55,822.54"
+},{
+ "Name": "Ethereum",
+ "Symbol": "ETH",
+ "Price": "$1,944.40"
+},{
+ "Name": "Binance Coin",
+ "Symbol": "BNB",
+ "Price": "$309.25"
+},{
+ "Name": "Tether",
+ "Symbol": "USDT",
+ "Price": "$1.00"
+},{
+ "Name": "Polkadot",
+ "Symbol": "DOT",
+ "Price": "$37.07"
+},{
+ "Name": "Cardano",
+ "Symbol": "ADA",
+ "Price": "$0.9267"
+},{
+ "Name": "XRP",
+ "Symbol": "XRP",
+ "Price": "$0.5623"
+},{
+ "Name": "Litecoin",
+ "Symbol": "LTC",
+ "Price": "$234.34"
+},{
+ "Name": "Chainlink",
+ "Symbol": "LINK",
+ "Price": "$34.12"
+},{
+ "Name": "Bitcoin Cash",
+ "Symbol": "BCH",
+ "Price": "$717.02"
+},]
