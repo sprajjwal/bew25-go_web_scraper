@@ -8,7 +8,7 @@ import (
 	"github.com/gocolly/colly"
 )
 
-type Crypto struct {
+type crypto struct {
 	Name   string
 	Symbol string
 	Price  string
@@ -52,7 +52,7 @@ func main() {
 		})
 
 		if name != "" {
-			coin := Crypto{
+			coin := crypto{
 				Name:   name,
 				Symbol: symbol,
 				Price:  price,
